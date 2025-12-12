@@ -50,21 +50,28 @@ Ready to grow and contribute to innovative projects.
 
 <table>
 <tr>
-
+  
 <td align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA5cWp4bDJpeGJsd3FqajAxZHRiOXAybXNobW5mbm53MHIxbDc2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZOxRp5tZTemNQzpgc/giphy.gif" width="120"/><br>
-<a href="https://instagram.com/ylevelu" style="color:#00f0ff;">Instagram @ylevelu</a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA5cWp4bDJpeGJsd3FqajAxZHRiOXAybXNobW5mbm53MHIxbDc2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZOxRp5tZTemNQzpgc/giphy.gif" width="120"/><br>
+  <a href="https://instagram.com/ylevelu" style="color:white; text-decoration:none; font-weight:600; text-shadow:0 0 10px #00f0ff;">
+    ylevelu
+  </a>
 </td>
 
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFlMXR2bzA0M2F5c3pweXE0amZsMDFkamk2N3Qwc2w1MnNpeHUzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ya4eevXU490Iw/giphy.gif" width="120"/><br>
-<a href="https://t.me/aslgw" style="color:#ff00ff;">Telegram @aslgw</a>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFlMXR2bzA0M2F5c3pweXE0amZsMDFkamk2N3Qwc2w1MnNpeHUzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ya4eevXU490Iw/giphy.gif" width="120"/><br>
+  <a href="https://t.me/aslgw" style="color:white; text-decoration:none; font-weight:600; text-shadow:0 0 10px #ff00ff;">
+    aslgw
+  </a>
 </td>
 
 <td align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBrODZwNjVnZmF4YnliNXpidDl3bHN2eTh5MHRwNzdremxleHI3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SMKiEh9WDO6ze/giphy.gif" width="120"/><br>
-<a href="https://twitter.com/serhii_278" style="color:#00ff90;">Twitter @serhii_278</a>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBrODZwNjVnZmF4YnliNXpidDl3bHN2eTh5MHRwNzdremxleHI3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SMKiEh9WDO6ze/giphy.gif" width="120"/><br>
+  <a href="https://twitter.com/serhii_278" style="color:white; text-decoration:none; font-weight:600; text-shadow:0 0 10px #00ff90;">
+    serhii_278
+  </a>
 </td>
+
 
 </tr>
 </table>
