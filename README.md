@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
   
   <h1 style="color:#00f0ff; text-shadow: 0 0 15px #00f0ff;">
-    ⚡ Welcome to my Neon GitHub Universe ⚡
+    ⚡ Welcome ⚡
   </h1>
 
   <h3 style="color:#ff00ff; text-shadow: 0 0 15px #ff00ff;">
@@ -34,14 +34,13 @@ Since arriving, I’ve been fully dedicated to building my tech career and impro
 – OOP, modular code, clean structure  
 – Version control with Git & GitHub  
 – Dev-process planning & software analysis  
-– Understanding of algorithms & data structures  
+– Algorithms & data structures  
 – Server work + OS knowledge  
 
-💠 **About me:**  
-I learn extremely fast, love solving problems, and always stay motivated to improve.  
-People say I have a friendly, calm, and humorous personality — and that I'm a great team addition.
-
-I aim to grow as an IT professional and contribute to impactful, innovative projects.
+💠 **Who I Am:**  
+Fast learner, problem solver, always motivated.  
+Friendly, calm, humorous — a strong team player.  
+Ready to grow and contribute to innovative projects.
 
 ---
 
@@ -74,8 +73,6 @@ I aim to grow as an IT professional and contribute to impactful, innovative proj
 
 ---
 
-## 🌈 Neon Mood GIFs
-
 <div align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTU1cmE4NGxscmdoc3g3OXJ6dHpudGhoOXg0eGF2aXBicG40a2d6bSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/DX7CsFhBt86tw5gewr/giphy.gif" width="150"/>
@@ -84,44 +81,54 @@ I aim to grow as an IT professional and contribute to impactful, innovative proj
 
 ---
 
-## 🛠️ Tech Stack (Neon Glow)
+# ⚡ Tech Stack — Categorized (Neon Edition)
 
+## 🎨 **Frontend**
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidjs/solidjs-original.svg" width="55"/>
 </div>
 
 ---
 
-## 📊 GitHub Stats (Neon Mode)
-
+## 🔧 **Backend**
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylevelu&layout=compact&theme=radical)
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="65"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="65"/>
 </div>
 
 ---
 
-## ✨ Neon Quote
-
+## 📱 **Mobile**
 <div align="center">
-  <h3 style="color:#00f0ff; text-shadow: 0 0 10px #00f0ff;">
-    “Code is the closest thing we have to magic.”
-  </h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55"/>
 </div>
 
 ---
+
+## 🗄️ **Databases**
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="60"/>
+</div>
+
+---
+
+## 🔧 **Tools & DevOps**
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55"/>
+</div>
+
+---
+
+
+
+
